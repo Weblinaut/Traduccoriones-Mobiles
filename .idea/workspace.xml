@@ -2,49 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc372cc-104f-4693-b3a7-c55d4b13ae6a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/traduccorionesmobile.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/magnific-popup.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/elements.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/home-2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/home.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/icon-fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/icon-fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/icon-fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/icon-fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/about.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/blog/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/blog/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/blog/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/blog/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/blog/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/blog/6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/sign.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/circle-progress.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/magnific-popup.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/mixitup.min.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
+      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change beforePath="$PROJECT_DIR$/elements.html" afterPath="$PROJECT_DIR$/elements.html" />
+      <change beforePath="$PROJECT_DIR$/home-2.html" afterPath="$PROJECT_DIR$/home-2.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1971">
-              <caret line="7" column="74" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="74" />
+              <caret line="7" column="74" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -231,12 +195,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535539178668</updated>
-      <workItem from="1535539179758" duration="1978000" />
+      <workItem from="1535539179758" duration="2293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1978000" />
+    <option name="totallyTimeSpent" value="2293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="2518" height="1337" extended-state="0" />
@@ -311,10 +275,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1971">
-          <caret line="7" column="74" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="74" />
+          <caret line="7" column="74" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="74" />
           <folding />
         </state>
       </provider>
