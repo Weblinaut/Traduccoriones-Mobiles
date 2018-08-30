@@ -79,19 +79,19 @@
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet pharetra nisl. Vestibulum sollicitudin leo non purus vestibulum placerat. Curabitur ac erat sollicitudin, blandit quam vitae.</p>
 				</div>
 			</div>
-			<form class="contact-form">
+			<form method="post" action="send_mail.php" enctype="text/plain" class="contact-form">
 				<div class="row">
 					<div class="col-md-6">
-						<input type="text" placeholder="Name">
+						<input type="text" name="name" placeholder="Name">
 					</div>
 					<div class="col-md-6">
-						<input type="text" placeholder="E-mail">
+						<input type="text" name="email" placeholder="E-mail">
 					</div>
 					<div class="col-md-6">
-						<input type="text" placeholder="Subject">
+						<input type="text" name="subject" placeholder="Subject">
 					</div>
 					<div class="col-md-6">
-						<input type="text" placeholder="How did you hear about us?">
+						<input type="text" name="comment" placeholder="How did you hear about us?">
 					</div>
 					<div class="col-md-12">
 						<textarea placeholder="Message"></textarea>
@@ -101,6 +101,28 @@
 					<button class="site-btn">Send</button>
 				</div>
 			</form>
+			<br>
+			<br>
+			<form method="post" action="send_mail.php">
+				<p>
+					<label>First Name
+						<input type="text" name="first_name" required>
+					</label>
+				</p>
+				<p>
+					<label>Email
+						<input type="email" name="email_address">
+					</label>
+				</p>
+				<p>
+					<label>Comments
+						<textarea name="comments" maxlength="500"></textarea>
+					</label>
+				</p>
+				<p><button>Submit the form</button></p>
+			</form>
+
+
 		</div>
 	</section>
 	<!-- page section end -->
